@@ -37,8 +37,8 @@ jobs:
         tag_name: v1.0.${{ github.run_number }}
         name: Release v1.0.${{ github.run_number }}
         body: |
-          Automated build of the Video to Roblox ASCII Converter.
-          自動化生成的影片轉 Roblox ASCII 轉換器執行檔。
+          Automated build of the Video to ASCII Converter.
+          自動化生成的影片轉  ASCII 轉換器執行檔。
         files: dist/app.exe
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
