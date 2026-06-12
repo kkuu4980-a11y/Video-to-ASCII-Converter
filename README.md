@@ -3,6 +3,7 @@
 
 
 一個使用 Python 編寫的工具，能將任何影片檔案轉換為 ASCII 字元畫字串模組。高流暢度、並針對黑底白字進行了視覺優化，轉換完成後可透過選單選擇是否直接在終端機中進行即時預覽。
+請在 https://github.com/kkuu4980-a11y/Video-to-ASCII-Converter/releases 下載.exe版。
 
 ---
 
